@@ -1,5 +1,3 @@
-![Repo Banner](https://user-images.githubusercontent.com/87353286/144381080-faf8e557-7909-43a1-a8e2-208936e5a8f8.png)
-
 # EchoPlay
 
 An Open-Source Music Player App for all your needs!
@@ -19,7 +17,7 @@ An Open-Source Music Player App for all your needs!
      height="100">](https://files.fm/u/x78ay3x5cw)
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
-     height="100">](https://we.tl/t-vciIEnCSqr)
+     height="100">](https://pabitrabanerjee.me)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"
